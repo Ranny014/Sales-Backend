@@ -10,8 +10,3 @@ public class SalesApplication {
         SpringApplication.run(SalesApplication.class, args);
     }
 }
-
-/*👉 Frontend React Vite (CRUD UI + Tailwind + Popup edit)
-👉 Connect ke Spring Boot API
-👉 Modal popup edit data
-👉 Table realtime dari PostgreSQL*/
