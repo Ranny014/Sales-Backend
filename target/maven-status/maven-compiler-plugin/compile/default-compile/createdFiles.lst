@@ -1,5 +1,5 @@
 com\example\sales\SalesApplication.class
 com\example\sales\service\SalesService.class
+com\example\sales\controller\SalesController.class
 com\example\sales\entity\Sales.class
 com\example\sales\repository\SalesRepository.class
-SalesController.class

@@ -1,3 +1,4 @@
+package com.example.sales.controller;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;
 import com.example.sales.entity.Sales;
